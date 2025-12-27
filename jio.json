@@ -21,15 +21,15 @@
     },
   "users": [
     {
-      "username": "test_user",
-      "password": "test_pass",
-      "device_id": "8e3d64c8-3c99-44d5-947b-example00002",
+      "username": "admin",
+      "password": "12345678",
+      "device_id": "8a4100c7-6981-4905-b907-82a2c93e99d8",
       "expiry_date_utc": "2024-11-01"
     },
     {
       "username": "admin",
       "password": "12345678",
-      "device_id": "4ce3c262-b3c3-42bc-ab6f-f11a9856870a",
+      "device_id": "2d5e88e7-8129-4ae7-a63f-7826e8346baf",
       "expiry_date_utc": "2026-01-10"
     },
     {
