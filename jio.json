@@ -51,9 +51,9 @@
       "expiry_date_utc": "2030-01-01"
     },
     {
-      "username": "user123",
-      "password": "pass456",
-      "device_id": "8e3d64c8-3c99-44d5-947b-example00001",
+      "username": "9887",
+      "password": "1234",
+      "device_id": "cc18025e-8fac-4b49-aad3-4337315516c5",
       "expiry_date_utc": "2025-12-31"
     }
   ]
